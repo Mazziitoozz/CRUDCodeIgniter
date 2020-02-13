@@ -1,4 +1,6 @@
 <div class= "jumbotron text-center bg-success">
+
+
 <div class="container-fluid" >
     <div class="row">
         <div class= "col-xl-3">
@@ -17,10 +19,19 @@
         <div class= "col-xl-3">
             <img src="http://localhost/MazoProject/assets/css/gym_woman.jpg" class="rounded-circle" alt="Woman" width="400" height="280"> 
         </div>
+    
+    
     </div>
+
+
+
 </div>
+
 </div>
+
+
 <div class="text-center  " >
+
     <label for="firstname"> <strong>Firstname:</strong> </label>
     <input type="input" name="firstname" id="firstname" class="col.bord" />
   
