@@ -1,4 +1,4 @@
-This is My First CRUD (Create,Read,Update,Delete) using PHP(CodeIgniter, JavaScript(jQuery),CSS(Bootstrap),HTML5. September 2019.
+This is My First CRUD (Create,Read,Update,Delete) using PHP(CodeIgniter), JavaScript(jQuery),CSS(Bootstrap),HTML5 and MySQL. September 2019.
 
 ###################
 What is CodeIgniter
